@@ -12,5 +12,9 @@ namespace CoreMvcGiris.Controllers
         {
             return View();
         }
+        public IActionResult Referanslar()
+        {
+            return View();
+        }
     }
 }
